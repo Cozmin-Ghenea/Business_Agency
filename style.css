@@ -969,5 +969,8 @@ html {
             initial-letter: 2rem;
         }
     }
+    .section-2-paragraph{
+        top:80rem
+    }
 }
 /* End of Responsive */
